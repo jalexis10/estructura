@@ -12,7 +12,7 @@ A continuación se muestra una representación visual del proceso de codificaci�
 
 ## Instalación
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-2.https://github.com/tu-usuario/proyecto-huffman.git
+https://github.com/jalexis10/estructura/blob/main/Untitled-1.py
 2. Asegúrate de tener Python 3 instalado en tu sistema.
 
 3. Instala las dependencias del proyecto ejecutando el siguiente comando:
